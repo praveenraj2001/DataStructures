@@ -1,2 +1,2 @@
-# Data Structures
+# ALL Training
 # C, C++
